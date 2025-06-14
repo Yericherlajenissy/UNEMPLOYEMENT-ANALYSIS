@@ -15,7 +15,7 @@ Insights into the regions most affected by unemployment
 # 📁 File Included
 UnemploymentAnalysis.ipynb: Main Jupyter Notebook containing code, visualizations, and findings
 
-📌 Tools & Technologies
+# 📌 Tools & Technologies
 Python
 
 Pandas
