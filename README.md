@@ -1,4 +1,4 @@
- # 📊 Unemployment Analysis using Python
+# 📊 Unemployment Analysis using Python
 This project presents a comprehensive analysis of unemployment data in India using Python. The main objective is to understand the unemployment trends across different regions and time periods, and to visualize the impact of various socio-economic factors.
 
 # 🧠 Key Features
